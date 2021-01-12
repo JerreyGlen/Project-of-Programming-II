@@ -1,2 +1,2 @@
 # Project-of-Programming-II
-Project at the University. A Apps for drawing of simple figures
+Project at the University. An Apps for drawing of simple figures
